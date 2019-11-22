@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212949087324",
+    "firebase_url": "https://notificacionunivalle3.firebaseio.com",
+    "project_id": "notificacionunivalle3",
+    "storage_bucket": "notificacionunivalle3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212949087324:android:6c58bdc0aa8d89f9bbe299",
+        "android_client_info": {
+          "package_name": "com.platzi.mynotificacion3univalle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212949087324-2s7ehtqv47nie7moedkk89veg75v7uuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platzi.mynotificacion3univalle",
+            "certificate_hash": "74a700735bdeb7b9678c31d984f1a7940dc83679"
+          }
+        },
+        {
+          "client_id": "212949087324-a7gtbpaq0lmvkfubcd56bakbb2mk7hqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV52Hn2_FRgNsSSbNs1JnkQ-NnzSZ3ajQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212949087324-a7gtbpaq0lmvkfubcd56bakbb2mk7hqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
